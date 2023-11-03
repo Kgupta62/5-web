@@ -1,0 +1,243 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body {
+    width: 100%;
+    height: 100%;
+}
+
+#main {
+    background-image: url(https://images.unsplash.com/photo-1649185885038-ce0483f9f5ba?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+
+
+       height: 100%;
+}
+
+#down {
+    position: absolute;
+    height: 30%;
+    width: 100%;
+background-color: white;
+bottom: 0%;
+
+}
+
+#balck {
+    position: absolute;
+    background-color: black;
+height: 100%;
+width: 30%;
+right: 0%;
+
+
+    
+}
+
+#img{
+    position: absolute;
+    left: 50%;
+    bottom: 0%;    
+    width: 28%;
+
+
+    
+}
+h6{
+    position: absolute;
+    color: black;
+    left: 5%;
+    top: 7%;
+    font-size: 25px;
+}
+#qw{
+    position: absolute;
+    color: black;
+    left: 5%;
+    top: 20%;
+    font-size: 25px;
+}
+
+#qwe{
+    position: absolute;
+    color: black;
+    left: 5%;
+    top: 25%;
+    font-size: 78px;
+}
+#qwer{
+    position: absolute;
+    color: black;
+    left: 5%;
+    top: 39%;
+   font-size: 17px;
+}
+#qwert{
+    position: absolute;
+    color: black;
+    left: 19%;
+    top: 41.8%;
+   font-size: 17px;
+}
+#text1{
+    position: absolute;
+    color: white;
+    left:35%;
+font-size: 16px;
+font-weight: 100;
+    top: 15%;
+}
+#text2{
+    position: absolute;
+    color: white;
+    left:35%;
+    font: 15px;
+    top: 30%;
+    font-size: 25px;
+}
+#text3{
+    position: absolute;
+    color: white;
+    left:35%;
+    top: 65%;
+    font-size: 16px;
+    font-weight: 50;
+}
+#sidep{
+    position: absolute;
+    color: white;
+    background-color: black;
+    left: 78%;
+    bottom: 28%;
+    height: 8%;
+    width: 8%;
+}
+#q1{
+    position: absolute;
+    color: white;
+top: 25%;
+left: 30%;
+font-size: 18px;
+}
+#a2{
+    position: absolute;
+    left: 70%;
+    top: 25%;
+    color: white;
+    font-size: 18px;
+
+}
+#a21{
+    position: absolute;
+    left: 7%;
+    font-size: 38px;
+    top: 25%;
+ font-size: 30px;
+    color: black;
+}
+#a3{
+    position: absolute;
+    left: 7%;
+font-size: 15px;
+    top:45%;
+    color:grey;
+    font-weight: 50;
+}
+#a4{
+    position: absolute;
+    left: 18%;
+    font-size: 30px;
+    top: 25%;
+    color: grey;
+    font-weight: 50;
+}
+#a5{
+    position: absolute;
+    left: 18%;
+    font-size: 15px;
+    top: 45%;
+    color: grey;
+    font-weight: 50;
+}
+#a6{
+    position: absolute;
+    left: 34%;
+    font-size: 30px;
+    font-weight: 50;
+    top: 25%;
+    color: grey;
+}
+#a7{
+    position: absolute;
+    left: 34%;
+    font-size: 15px;
+    top: 45%;
+    color: grey;
+    font-weight: 50;
+}
+#a8{
+    position: absolute;
+    left: 5%;
+    font-size: 18px;
+    top: 8%;
+    font-weight: 50;
+    color:gray;
+}
+#img4{
+    position: absolute;
+    left: 6%;
+    top: 50%;
+    color: white;
+    background-color: white;
+}
+#star{
+    position: absolute;
+    left: 3.6%;
+    top:7.3%;
+    color: white;
+    background-color: white;
+}
+
+#img6{
+    position: absolute;
+    left: 97%;
+    top:30%;
+    color: white;
+    background-color: white;
+}
+#qw2{
+    position: absolute;
+    left: 80%;
+    top: 5%;
+    font-size: 15px;
+    color: black;
+}
+#qw3{
+    position: absolute;
+    left: 85%;
+    top: 5%;
+    font-size: 15px;
+    color: black;
+}#qw4{
+    position: absolute;
+    left: 90%;
+    top: 5%;
+    color: black;
+    font-size: 15px;
+}
+#qw234{
+    position: absolute;
+    left: 95%;
+    top: 5%;
+    height: 2%;
+    
+}
+
+
+
+
+
+
+
